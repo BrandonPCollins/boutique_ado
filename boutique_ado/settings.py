@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-mn(@rmq7se#8l71-*+_ohx_(t&yitum7c&4=8_n13k^j-&u=d8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', 'localhost']
+ALLOWED_HOSTS = ['8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', '8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu107.gitpod.io', 'localhost']
 
 CSRF_TRUSTED_ORIGINS = ['https://8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io']
 
