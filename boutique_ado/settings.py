@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', '8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu107.gitpod.io', 'localhost']
 
-CSRF_TRUSTED_ORIGINS = ['https://8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io']
+CSRF_TRUSTED_ORIGINS = ['https://8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', 'https://8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu107.gitpod.io']
 
 # Application definition
 
@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'allauth.socialaccount',
     'django.contrib.sites',
     'home',
+    'products',
 ]
 
 MIDDLEWARE = [
