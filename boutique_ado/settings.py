@@ -27,7 +27,7 @@ SECRET_KEY = 'django-insecure-mn(@rmq7se#8l71-*+_ohx_(t&yitum7c&4=8_n13k^j-&u=d8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', '8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu107.gitpod.io', 'localhost', 'https://boutique-ado-bp-0ebbe2740447.herokuapp.com/']
+ALLOWED_HOSTS = ['boutique-ado-bp-0ebbe2740447.herokuapp.com', '8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', '8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu107.gitpod.io', 'localhost', 'https://boutique-ado-bp-0ebbe2740447.herokuapp.com/']
 
 CSRF_TRUSTED_ORIGINS = ['https://8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu106.gitpod.io', 'https://8000-brandonpcol-boutiqueado-zll61umnj7v.ws-eu107.gitpod.io']
 
